@@ -1,0 +1,9 @@
+{
+  "name": "material-ui-sandbox",
+  "private": true,
+  "version": "0.0.1",
+  "main": "src/index.tsx",
+  "repository": "ssh://git@github.com/otofu-square/material-ui-sandbox.git",
+  "author": "Hidemi Yukita <otofu.square@gmail.com>",
+  "license": "MIT"
+}
